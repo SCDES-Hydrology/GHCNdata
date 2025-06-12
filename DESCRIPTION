@@ -11,8 +11,8 @@ Maintainer: Nicholas Pinder <nicholas.pinder@des.sc.gov>
 Description: More about what it does (maybe more than one line) Use four
     spaces when indenting paragraphs within the Description.
 License: file LICENSE
-URL: https://github.com/capellett/GHCNdata
-BugReports: https://github.com/capellett/GHCNdata/issues
+URL: https://github.com/SCDES-Hydrology/GHCNdata
+BugReports: https://github.com/SCDES-Hydrology/GHCNdata/issues
 Suggests: 
     knitr,
     rmarkdown,
